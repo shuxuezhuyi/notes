@@ -1,1 +1,3 @@
-Welcome to the notes wiki!
+- Lean
+    - [网络资源](Lean/网络资源)
+    - [简单记录](Lean/简单记录)
